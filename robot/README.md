@@ -1,10 +1,10 @@
 # Showcase for Robot Framework
 
-* [Example](http://eficode.fi/blogi/maintainable-automatic-tests-for-your-web-application/)
+* [Example from Eficode's Blog](http://eficode.fi/blogi/maintainable-automatic-tests-for-your-web-application/)
 
 ## Installation
 
-[Instructions](http://code.google.com/p/robotframework/wiki/Installation)
+* [Official instructions in robotframework.org](http://code.google.com/p/robotframework/wiki/Installation)
 
 ### OSX
 
