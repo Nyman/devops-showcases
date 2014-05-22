@@ -8,9 +8,9 @@
 
 ### OSX
 
-Install [Homebrew](http://brew.sh/)
+* Install [Homebrew](http://brew.sh/)
 
-Run in Terminal
+* Run in Terminal
 
     brew install python
     pip install robotframework
