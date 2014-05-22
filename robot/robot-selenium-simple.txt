@@ -14,8 +14,8 @@ Google devops and find eficode
 *** Keywords ***
 Google and check results
     [Arguments]     ${searchkey}    ${result}
-    Input Text      gbqfq        ${searchkey}
-    Click Button    gbqfb
+    Input Text      id=gbqfq        ${searchkey}
+    Click Button    id=gbqfb
     Wait Until Page Contains        ${result}
 
 
