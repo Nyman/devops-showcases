@@ -9,8 +9,3 @@
     - curl
     - git-core
 
-- name: Install ImageMagick
-  apt: pkg={{ item }} state=latest
-  with_items:
-    - imagemagick
-    - libmagickwand-dev
