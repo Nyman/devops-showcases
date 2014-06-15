@@ -1,0 +1,14 @@
+- hosts: all
+  sudo: yes
+  roles:
+    - apt
+    - base
+    - apache
+    - security
+    - mysql
+
+- hosts: all
+  sudo: yes
+  roles:
+    - java
+    - rbenv
