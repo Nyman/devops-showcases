@@ -4,12 +4,12 @@
 
 * [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
 
-* SSH-keys in local agent:
+SSH-keys in local agent:
 
     ssh-add -L
     ssh-add ~/.ssh/id_rsa
 
-* To start up ssh-agent
+To start up ssh-agent
 
     ssh-agent /bin/bash
 
