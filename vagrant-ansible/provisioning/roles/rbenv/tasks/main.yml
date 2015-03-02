@@ -65,7 +65,6 @@
   shell: bash -lc "gem install {{item}}"
   with_items:
     - bundler
-    - passenger
 
 - name: rehash
   shell: RBENV_ROOT={{rbenv_root}} rbenv rehash
